@@ -1,5 +1,5 @@
 # Delani Studio
-#### This is a website of Delani Studio, an organisation specialised in software development, July 2019
+#### This is a website of Delani Studio, an organisation specialised in software development,2020.
 #### By **olive kaitesi**
 ## Technologies used
 * HTML
