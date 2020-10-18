@@ -17,7 +17,7 @@ HTML, CSS and Javascript
 ## Contact details
  Any issues or have questions, ideas or concerns? 
   Please Get in touch.
-
- * +250781717613
+  * kaitesi.olive777@gmail.com
+  * +250781717613
 ### License
 *olive.k*
