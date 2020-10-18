@@ -6,7 +6,6 @@
 * CSS
 * Javascript
 * JQuery
-* Bootstrap
 ## Setup/Instructions
 * Pull or clone the repository if you want use it
 * Please browse through the content on the website
